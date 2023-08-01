@@ -1,6 +1,6 @@
-Hi guys!
+¡Hola! ;)
 
-I'm currently studying Computer Engineering at UNAM - FES Aragón
+Actualmente estoy estudiando Ingeniería en Computación en la UNAM - FES Aragón.
 
-I have specialized in web development Backend using Spring Boot and some Angular.
+Me he especializado en el desarrollo web - Backend, utilizando Spring Boot y algo de Angular.
 
