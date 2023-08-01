@@ -1,7 +1,6 @@
-Hi guys ;}
+Hi guys!
 
-I'm currently studing Computer Engineer in UNAM - FES Aragón
+I'm currently studying Computer Engineering at UNAM - FES Aragón
 
-I have specialize in web development using React.js and Spring Boot
+I have specialized in web development Backend using Spring Boot and some Angular.
 
-I love write code of everything I imagine
