@@ -9,4 +9,10 @@ No tengo muchos proyectos terminados para mostrar, muchos están a medias, eso s
 además de mi trabajo a tiempo completo, trabajo de forma paralela como independiente y tengo mi proyecto 
 personal, el cual es un sistema administrativo orientado a Veterinarias chicas y medianas.
 
-Si quieres saber más sobre mi experiencia o mi trabajo visita loredev.com.mx
+En cuanto tenga un Mvp de mi proyecto, lo mostraré aquí, por lo mientras...
+
+Si quieres saber más sobre mi experiencia o mi trabajo 
+Visita mi web loredev.com.mx
+Manda correo a lorenzccaz@gmail.com
+O visita mi Linkedin linkedin.com/in/daniellorenzos/
+
